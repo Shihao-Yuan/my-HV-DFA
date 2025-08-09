@@ -1,4 +1,4 @@
-## HV-DFA: H/V Spectral Ratio and Dispersion (Fortran + Python API) Based on Diffuse Wavefield Analysis
+## HV-SWD-DFA: H/V Spectral Ratio and Dispersion Modeling Based on Diffuse Wavefield Assumption
 
 Fortran implementation of H/V spectral ratio and surface-wave dispersion, with a Python wrapper. The Python API matches the original CLI results, and includes scripts to compare and visualize outputs.
 
